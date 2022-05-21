@@ -49,7 +49,7 @@ def format_time(h, m, s):
 def show():
 
     st.write("👉 Has it ever happened that your watch stopped or had ant malfunction during your workout, thus **losing part** of your activity?"
-             " Or has it happened that due to bad GPS signal your watched recorded a **shorter distance** than your actual one? 🤔")
+             " Or has it happened that due to bad GPS signal your watch recorded a **shorter distance** than your actual one? 🤔")
     st.write("👉 Imagine that, after a maximal effort, you have just broken your 10km PB but your watch only recorded 9.8km,"
              " thus failing to register your record. How would you feel?"
              " Satisfied because you know you made it but probably a little disappointed because you can't show it. 😥")
