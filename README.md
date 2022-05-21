@@ -24,7 +24,7 @@
 - Automatic GPX files distance modifier
 - Easy upload and download of your modified file
 - Clean and user-friendly interface
-- The author has over 10 years or running experience including track, road, and trail running
+- The author has over 10 years of running experience including track, road, and trail running
 
 ---
 
